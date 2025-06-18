@@ -68,3 +68,11 @@ This is a sentence with a footnote.[^1]
 ![Philadelphia's Magic Gardens. This place was so cool!](images/philly-\magic-garden.png "Philadelphia's Magic Gardens")
 
 [See Projects](#my-projects)
+
+
+
+
+# h1
+
+h1
+=
